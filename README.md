@@ -15,4 +15,10 @@ This project is a starting point for a Flutter application.
 ![screenshot4](<./images/Screenshot%20(140).png>); ![screenshot2](<./images/Screenshot%20(142).png>);
 
 
-## thanks for visiting
+## contact me
+
+ [LinkedIn](https://www.linkedin.com/in/omprakash72810/)
+
+Thanks for visiting
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
